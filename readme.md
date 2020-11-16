@@ -10,8 +10,34 @@ Please send a PR with any new ones you find.
 
 ### Free
 
-* [DEA Guard](https://www.deaguard.eu.org)
 * [Disposable](https://github.com/0x19/disposable)
+* [Disposable Email Detector](https://www.disposable-email-detector.com)
+* [Verifier](https://verifier.meetchopra.com/)
 
+## Libraries
 
+### Elixir
 
+* [Burnex](https://github.com/Betree/burnex)
+
+### Go
+
+* [DED](https://github.com/namreg/ded) (__Reported not working__)
+
+### NodeJs
+
+* [burner-email-providers](https://github.com/findie/burner-email-providers)
+
+### PHP
+
+#### Symfony
+
+* [secit-pl/validation-bundle](https://github.com/secit-pl/validation-bundle#burneremail)
+
+### Scala
+
+* [Burner4s](https://github.com/ariskk/burner4s)
+
+## Host your own
+
+* [Docker](https://hub.docker.com/r/emailhippo/dea-id-community-api-wesbos-v1)
